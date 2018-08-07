@@ -14,6 +14,7 @@ import {
 } from "semantic-ui-react";
 
 class MainContent extends Component {
+  
   state = {
     articleToAdd: "",
     articles: []
